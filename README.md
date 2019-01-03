@@ -1,2 +1,2 @@
-# Introduction-to-C-Sharp
-Introduction to C# Programming and Unity
+# Introduction-to-C-Sharp weekly assignments implementation
+Introduction to C# Programming and Unity -- Universit of Colorada
