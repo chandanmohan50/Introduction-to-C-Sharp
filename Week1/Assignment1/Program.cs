@@ -6,6 +6,8 @@ namespace Assignment1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome!");
+            Console.WriteLine("This application is for calculate the distance between two points and the angle between those points.");
             Console.Write("Enter first X value: ");
             float point1X = float.Parse(Console.ReadLine());
 
